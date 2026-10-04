@@ -1,0 +1,30 @@
+{
+  "name": "property-ownership-registry",
+  "version": "1.0.0",
+  "description": "A decentralized voting application using Solidity smart contracts, MetaMask, and Ganache.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Rohhith and Team",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "truffle-assertions": "^0.9.2"
+  },
+  "devDependencies": {
+    "ganache": "^7.9.2",
+    "truffle": "^5.11.5"
+  }
+}
